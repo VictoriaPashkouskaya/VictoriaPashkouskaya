@@ -27,8 +27,8 @@ Mi experiencia incluye trabajar con tecnologías web como HTML, CSS, JavaScript,
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="30" height="30" alt="Photoshop"> Photoshop  
 
 ## Office Suites / Suites de Oficina
-
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftoffice/microsoftoffice-plain.svg" width="30" height="30" alt="Microsoft Office"> Microsoft Office
+
 
 
 ## Design Tools / Herramientas de Diseño
@@ -41,9 +41,6 @@ Mi experiencia incluye trabajar con tecnologías web como HTML, CSS, JavaScript,
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" width="30" height="30" alt="Windows"> Windows  
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="30" height="30" alt="Linux"> Linux  
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" width="30" height="30" alt="MacOS"> MacOS  
-
-
-
 
 
 ## Proyectos / Projects
