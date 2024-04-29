@@ -26,21 +26,6 @@ Mi experiencia incluye trabajar con tecnologías web como HTML, CSS, JavaScript,
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" width="30" height="30" alt="Windows"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="30" height="30" alt="Linux"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" width="30" height="30" alt="MacOS"> 
 
-
-## Proyectos / Projects
-
-1. **Portfolio Website**
-   - Repositorio / Repository / Ссылка на репозиторий: [Portfolio Website](https://github.com/VictoriaPashkouskaya/portfolio)
-   - Demo / Ссылка на демо: [Portfolio Website Demo](https://victoriapashkouskaya.github.io/portfolio/)
-
-2. **Todo List App (React)**
-   - Repositorio / Repository / Ссылка на репозиторий: [Todo List App](https://github.com/VictoriaPashkouskaya/todo-list-react)
-   - Demo / Ссылка на демо: [Todo List App Demo](https://victoriapashkouskaya.github.io/todo-list-react/)
-
-## Educación / Education / Образование
-
-- Licenciatura en Tecnologías de la Información, Año de graduación: 2020, BGUIR / Bachelor's Degree in Information Technology, Graduation Year: 2020, BGUIR / Бакалавр информационных технологий, Год окончания: 2020, БГУИР
-
 ## Contáctame / Contact Me / Связаться со мной
 [![Sololearn Profile](https://img.shields.io/badge/Sololearn-Profile-green?style=for-the-badge&logo=sololearn)](https://www.sololearn.com/es/profile/31722118)
 [![LinkedIn Profile](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/victoria-pashkouskaya-4ab140280)
