@@ -7,8 +7,9 @@ Me dedico al desarrollo de software / I'm engaged in software development / Я �
 Mi experiencia incluye trabajar con tecnologías web como HTML, CSS, JavaScript, así como los frameworks React y Vue.js / My experience includes working with web technologies such as HTML, CSS, JavaScript, as well as frameworks React and Vue.js / Мой опыт включает в себя работу с веб-технологиями, такими как HTML, CSS, JavaScript, а также фреймворками React и Vue.js.
 
 ## GitHub Stats
+![Victoria Pashkouskaya's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictoriaPashkouskaya&show_icons=true&theme=radical&bg_color=000000&text_color=DC143C)
 
-![Estadísticas de GitHub de VictoriaPashkouskaya / GitHub Stats of VictoriaPashkouskaya / Статистика GitHub пользователя VictoriaPashkouskaya](https://github-readme-stats.vercel.app/api?username=VictoriaPashkouskaya&show_icons=true&theme=radical)
+
 
 ## Top Languages
 
