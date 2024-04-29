@@ -15,6 +15,8 @@ Mi experiencia incluye trabajar con tecnologías web como HTML, CSS, JavaScript,
 
 # Skills / Habilidades
 
+# Skills / Habilidades
+
 ## Programming Languages / Lenguajes de Programación
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="30" height="30" alt="JavaScript"> JavaScript  
@@ -25,22 +27,23 @@ Mi experiencia incluye trabajar con tecnologías web como HTML, CSS, JavaScript,
 
 ## Graphic Editors / Editores Gráficos
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/92/Adobe_Photoshop_Logotype_CC_%282013%29.svg" width="30" height="30" alt="Photoshop"> Photoshop  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="30" height="30" alt="Photoshop"> Photoshop  
 
 ## Office Suites / Suites de Oficina
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Microsoft_Office_2013-2019_logo.svg" width="30" height="30" alt="Microsoft Office"> Microsoft Office  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftoffice/microsoftoffice-plain.svg" width="30" height="30" alt="Microsoft Office"> Microsoft Office  
 
 ## Design Tools / Herramientas de Diseño
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="30" height="30" alt="Figma"> Figma  
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/Canva_logo.svg" width="30" height="30" alt="Canva"> Canva  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="30" height="30" alt="Figma"> Figma  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" width="30" height="30" alt="Canva"> Canva  
 
 ## Operating Systems / Sistemas Operativos
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" width="30" height="30" alt="Windows"> Windows  
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="30" height="30" alt="Linux"> Linux  
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" width="30" height="30" alt="MacOS"> MacOS  
+
 
 
 
