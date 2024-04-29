@@ -13,7 +13,8 @@ Mi experiencia incluye trabajar con tecnologías web como HTML, CSS, JavaScript,
 
 ## Top Languages
 
-![Статистика GitHub пользователя VictoriaPashkouskaya](https://github-readme-stats.vercel.app/api?username=VictoriaPashkouskaya&show_icons=true&theme=radical&bg_color=000000&text_color=DC143C&custom_title=GitHub%20Stats%20%F0%9F%8E%89%20(Animating%20Stats))
+![Самые используемые языки программирования](https://github-readme-stats.vercel.app/api/top-langs/?username=VictoriaPashkouskaya&layout=compact&bg_color=000000&text_color=DC143C)
+
 
 
 
