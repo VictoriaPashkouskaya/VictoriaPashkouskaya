@@ -42,9 +42,11 @@ Mi experiencia incluye trabajar con tecnologías web como HTML, CSS, JavaScript,
 - Licenciatura en Tecnologías de la Información, Año de graduación: 2020, BGUIR / Bachelor's Degree in Information Technology, Graduation Year: 2020, BGUIR / Бакалавр информационных технологий, Год окончания: 2020, БГУИР
 
 ## Contáctame / Contact Me / Связаться со мной
+[![Sololearn Profile](https://img.shields.io/badge/Sololearn-Profile-green?style=for-the-badge&logo=sololearn)](https://www.sololearn.com/es/profile/31722118)
+[![LinkedIn Profile](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/victoria-pashkouskaya-4ab140280)
+[![Email](https://img.shields.io/badge/Email-vika.pashkowskaia%40ukr.net-red?style=for-the-badge&logo=gmail)](mailto:vika.pashkowskaia@ukr.net)
+[![Telegram](https://img.shields.io/badge/Telegram-Contact-blue?style=for-the-badge&logo=telegram)](https://t.me/your_telegram_username)
 
-- GitHub: [VictoriaPashkouskaya](https://github.com/VictoriaPashkouskaya)
-- LinkedIn: [Victoria Pashkouskaya](https://www.linkedin.com/in/victoria-pashkouskaya/)
 
 Estaré encantada de responder cualquier pregunta o discutir oportunidades de colaboración! / I'll be glad to answer any questions or discuss collaboration opportunities! / Буду рада ответить на любые вопросы или обсудить возможности сотрудничества!
 
