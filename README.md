@@ -17,30 +17,31 @@ Mi experiencia incluye trabajar con tecnologías web como HTML, CSS, JavaScript,
 
 ## Programming Languages / Lenguajes de Programación
 
-![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg) JavaScript  
-![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg) Python  
-![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg) HTML  
-![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg) CSS  
-![PHP](https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg) PHP  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="30" height="30" alt="JavaScript"> JavaScript  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30" height="30" alt="Python"> Python  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="30" height="30" alt="HTML"> HTML  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="30" height="30" alt="CSS"> CSS  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="30" height="30" alt="PHP"> PHP  
 
 ## Graphic Editors / Editores Gráficos
 
-![Photoshop](https://upload.wikimedia.org/wikipedia/commons/9/92/Adobe_Photoshop_Logotype_CC_%282013%29.svg) Photoshop  
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/92/Adobe_Photoshop_Logotype_CC_%282013%29.svg" width="30" height="30" alt="Photoshop"> Photoshop  
 
 ## Office Suites / Suites de Oficina
 
-![Microsoft Office](https://upload.wikimedia.org/wikipedia/commons/8/84/Microsoft_Office_2013-2019_logo.svg) Microsoft Office  
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Microsoft_Office_2013-2019_logo.svg" width="30" height="30" alt="Microsoft Office"> Microsoft Office  
 
 ## Design Tools / Herramientas de Diseño
 
-![Figma](https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg) Figma  
-![Canva](https://upload.wikimedia.org/wikipedia/commons/1/1d/Canva_logo.svg) Canva  
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="30" height="30" alt="Figma"> Figma  
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/Canva_logo.svg" width="30" height="30" alt="Canva"> Canva  
 
 ## Operating Systems / Sistemas Operativos
 
-![Windows](https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg) Windows  
-![Linux](https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg) Linux  
-![MacOS](https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg) MacOS  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" width="30" height="30" alt="Windows"> Windows  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="30" height="30" alt="Linux"> Linux  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" width="30" height="30" alt="MacOS"> MacOS  
+
 
 
 
