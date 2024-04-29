@@ -13,49 +13,34 @@ Mi experiencia incluye trabajar con tecnologías web como HTML, CSS, JavaScript,
 
 ![Самые используемые языки программирования](https://github-readme-stats.vercel.app/api/top-langs/?username=VictoriaPashkouskaya&layout=compact&bg_color=000000&text_color=DC143C)
 
+# Skills / Habilidades
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-    <style>
-        .skills-container {
-            display: flex;
-            align-items: center;
-            flex-wrap: wrap; /* Разрешает перенос строк, если навыков слишком много */
-        }
-        .skill-icon {
-            margin-right: 10px;
-            width: 30px; /* Измените размер иконок по вашему усмотрению */
-            height: 30px;
-        }
-    </style>
-</head>
-<body>
-    <h1>Programming Languages & Skills / Lenguajes de Programación y Habilidades</h1>
-    <div class="skills-container">
-        <!-- Языки программирования -->
-        <img class="skill-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript">
-        <img class="skill-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python">
-        <img class="skill-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5">
-        <img class="skill-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3">
-        <img class="skill-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP">
-        <!-- Графические редакторы -->
-        <img class="skill-icon" src="https://upload.wikimedia.org/wikipedia/commons/9/92/Adobe_Photoshop_Logotype_CC_%282013%29.svg" alt="Photoshop">
-        <!-- Офисные приложения -->
-        <img class="skill-icon" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Microsoft_Office_2013-2019_logo.svg" alt="Microsoft Office">
-        <!-- Дизайн -->
-        <img class="skill-icon" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="Figma">
-        <img class="skill-icon" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/Canva_logo.svg" alt="Canva">
-        <!-- Операционные системы -->
-        <img class="skill-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="Windows">
-        <img class="skill-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux">
-        <img class="skill-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" alt="MacOS">
-    </div>
-</body>
-</html>
+## Programming Languages / Lenguajes de Programación
+
+![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg) JavaScript  
+![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg) Python  
+![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg) HTML  
+![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg) CSS  
+![PHP](https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg) PHP  
+
+## Graphic Editors / Editores Gráficos
+
+![Photoshop](https://upload.wikimedia.org/wikipedia/commons/9/92/Adobe_Photoshop_Logotype_CC_%282013%29.svg) Photoshop  
+
+## Office Suites / Suites de Oficina
+
+![Microsoft Office](https://upload.wikimedia.org/wikipedia/commons/8/84/Microsoft_Office_2013-2019_logo.svg) Microsoft Office  
+
+## Design Tools / Herramientas de Diseño
+
+![Figma](https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg) Figma  
+![Canva](https://upload.wikimedia.org/wikipedia/commons/1/1d/Canva_logo.svg) Canva  
+
+## Operating Systems / Sistemas Operativos
+
+![Windows](https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg) Windows  
+![Linux](https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg) Linux  
+![MacOS](https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg) MacOS  
 
 
 
