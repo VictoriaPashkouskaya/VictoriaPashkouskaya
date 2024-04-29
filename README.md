@@ -1,10 +1,6 @@
 # ¡Hola! 👋 / Hello! 👋 / Привет! 👋
 
-Me llamo Victoria Pashkouskaya / My name is Victoria Pashkouskaya / Меня зовут Виктория Пашкувская. 
-
-Me dedico al desarrollo de software / I'm engaged in software development / Я занимаюсь разработкой программного обеспечения. 
-
-Mi experiencia incluye trabajar con tecnologías web como HTML, CSS, JavaScript, así como los frameworks React y Vue.js / My experience includes working with web technologies such as HTML, CSS, JavaScript, as well as frameworks React and Vue.js / Мой опыт включает в себя работу с веб-технологиями, такими как HTML, CSS, JavaScript, а также фреймворками React и Vue.js.
+Me llamo Victoria  / My name is Victoria 
 
 ## GitHub Stats
 ![Victoria Pashkouskaya's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictoriaPashkouskaya&show_icons=true&theme=radical&bg_color=000000&text_color=DC143C)
