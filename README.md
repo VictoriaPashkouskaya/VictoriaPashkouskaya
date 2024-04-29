@@ -10,29 +10,20 @@ Mi experiencia incluye trabajar con tecnologías web como HTML, CSS, JavaScript,
 ![Victoria Pashkouskaya's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictoriaPashkouskaya&show_icons=true&theme=radical&bg_color=000000&text_color=DC143C)
 
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-</head>
-<body>
-    <h1>Programming Languages</h1>
-    - ![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg) JavaScript
-- ![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg) Python
-- ![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg) HTML
-- ![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg) CSS
-- ![PHP](https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg) PHP
 
-</body>
-</html>
 
 ## Top Languages
 
 ![Самые используемые языки программирования](https://github-readme-stats.vercel.app/api/top-langs/?username=VictoriaPashkouskaya&layout=compact&bg_color=000000&text_color=DC143C)
 
 
+### Programming Languages
+
+- ![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg) JavaScript
+- ![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg) Python
+- ![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg) HTML
+- ![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg) CSS
+- ![PHP](https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg) PHP
 
 
 ## Proyectos / Projects
