@@ -15,19 +15,16 @@ Mi experiencia incluye trabajar con tecnologías web como HTML, CSS, JavaScript,
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Programming Languages</title>
     <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 </head>
 <body>
     <h1>Programming Languages</h1>
-    <ul>
-        <li><i class="devicon-java-plain"></i> Java</li>
-        <li><i class="devicon-javascript-plain"></i> JavaScript</li>
-        <li><i class="devicon-python-plain"></i> Python</li>
-        <li><i class="devicon-html5-plain"></i> HTML</li>
-        <li><i class="devicon-css3-plain"></i> CSS</li>
-        <li><i class="devicon-php-plain"></i> PHP</li>
-    </ul>
+    - ![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg) JavaScript
+- ![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg) Python
+- ![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg) HTML
+- ![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg) CSS
+- ![PHP](https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg) PHP
+
 </body>
 </html>
 
