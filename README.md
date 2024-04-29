@@ -14,9 +14,6 @@ Mi experiencia incluye trabajar con tecnologías web como HTML, CSS, JavaScript,
 ![Самые используемые языки программирования](https://github-readme-stats.vercel.app/api/top-langs/?username=VictoriaPashkouskaya&layout=compact&bg_color=000000&text_color=DC143C)
 
 # Skills / Habilidades
-
-# Skills / Habilidades
-
 ## Programming Languages / Lenguajes de Programación
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="30" height="30" alt="JavaScript"> JavaScript  
@@ -31,7 +28,8 @@ Mi experiencia incluye trabajar con tecnologías web como HTML, CSS, JavaScript,
 
 ## Office Suites / Suites de Oficina
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftoffice/microsoftoffice-plain.svg" width="30" height="30" alt="Microsoft Office"> Microsoft Office  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftoffice/microsoftoffice-plain.svg" width="30" height="30" alt="Microsoft Office"> Microsoft Office
+
 
 ## Design Tools / Herramientas de Diseño
 
