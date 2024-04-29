@@ -17,7 +17,7 @@ Mi experiencia incluye trabajar con tecnologías web como HTML, CSS, JavaScript,
 
 ## Programming Languages / Lenguajes de Programación
 
-![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg width="30" height="30" alt="JavaScript") JavaScript  
+![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg) JavaScript  
 ![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg) Python  
 ![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg) HTML  
 ![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg) CSS  
