@@ -1,9 +1,5 @@
-<!-- Пример с тенью -->
-<h1 style="color:#ff69b4; font-family:Arial, sans-serif; text-align:center; font-size:36px; text-shadow: 2px 2px 2px #000000;">¡Hola! 👋 / Hello! 👋 / Привет! 👋</h1>
-
-<!-- Пример с обводкой -->
-<h1 style="color:#ff69b4; font-family:Arial, sans-serif; text-align:center; font-size:36px; -webkit-text-stroke-width: 1px; -webkit-text-stroke-color: #000000;">¡Hola! 👋 / Hello! 👋 / Привет! 👋</h1>
-
+<!-- Приветствие на трех языках -->
+<h1 style="color:#ff69b4; font-family:Arial, sans-serif; text-align:center; font-size:36px; text-shadow: 2px 2px 2px #000000;">¡Viva larga y próspera! / Live long and prosper! / Да здравствует долгая и счастливая жизнь! 🖖</h1>
 
 <!-- Информация о себе -->
 ## About Me
