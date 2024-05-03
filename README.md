@@ -16,19 +16,17 @@
 ## Top Languages
 ![Самые используемые языки программирования](https://github-readme-stats.vercel.app/api/top-langs/?username=VictoriaPashkouskaya&layout=compact&bg_color=000000&text_color=DC143C)
 
-<!-- Навыки -->
-# Skills / Habilidades
-## Programming Languages / Lenguajes de Programación
+| **Programming Languages** | **Graphic Editors** | **Operating Systems** |
+|---------------------------|---------------------|-----------------------|
+| ![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg) JavaScript | ![Photoshop](https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg) Photoshop | ![Windows](https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg) Windows |
+| ![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg) Python | ![Figma](https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg) Figma | ![Linux](https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg) Linux |
+| ![HTML](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg) HTML | ![Canva](https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg) Canva | ![MacOS](https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg) MacOS |
+| ![CSS](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg) CSS |                     |                       |
+| ![PHP](https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg) PHP |                     |                       |
+| ![Git](https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg) Git |                     |                       |
+| ![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg) React |                     |                       |
+| ![MySQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg) MySQL |                     |                       |
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="30" height="30" alt="JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30" height="30" alt="Python"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="30" height="30" alt="HTML"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="30" height="30" alt="CSS"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="30" height="30" alt="PHP"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="30" height="30" alt="Git"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="30" height="30" alt="React"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="30" height="30" alt="MySQL">
-
-## Graphic Editors / Editores Gráficos
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="30" height="30" alt="Photoshop"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="30" height="30" alt="Figma"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" width="30" height="30" alt="Canva">
-
-## Operating Systems / Sistemas Operativos
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" width="30" height="30" alt="Windows"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="30" height="30" alt="Linux"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" width="30" height="30" alt="MacOS"> 
 
 <!-- Contáctame / Contact Me / Связаться со мной -->
 ## Contáctame / Contact Me / Связаться со мной
