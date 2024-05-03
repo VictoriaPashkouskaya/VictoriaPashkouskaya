@@ -27,13 +27,12 @@
 
 | **Developer Tools**                                                                                                          |
 |------------------------------------------------------------------------------------------------------------------------------|
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="30" height="30"> GitKraken |
-| <img src="https://raw.githubusercontent.com/jakearchibald/idb/master/icons/idb.ico" width="30" height="30"> IndexedDB |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="30" height="30"> GitKraken |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jakearchibald/idb/master/icons/idb.ico" width="30" height="30"> IndexedDB |
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/console/console-original.svg" width="30" height="30"> Console |
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powershell/powershell-original.svg" width="30" height="30"> PowerShell |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/adobe/adobe-original.svg" width="30" height="30"> Audio-Video Studio |
-| <img src="https://avatars.githubusercontent.com/u/18076099?s=200&v=4" width="30" height="30"> JakeVeri |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="30" height="30"> Jupyter Notebook |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/adobe/adobe-original.svg" width="30" height="30"> Audio-Video Studio
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" width="30" height="30"> Angular |Jupyter Notebook |
 <!-- Contáctame / Contact Me / Связаться со мной -->
 ## Contáctame / Contact Me / Связаться со мной
 [![Sololearn Profile](https://img.shields.io/badge/Sololearn-Profile-green?style=for-the-badge&logo=sololearn)](https://www.sololearn.com/es/profile/31722118)
