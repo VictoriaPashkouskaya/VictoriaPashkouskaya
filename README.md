@@ -1,6 +1,10 @@
 # ¡Hola! 👋 / Hello! 👋 / Привет! 👋
 
 Me llamo Victoria  / My name is Victoria 
+## About Me
+
+[:us: English](https://github.com/VictoriaPashkouskaya/VictoriaPashkouskaya/blob/main/About%20me) | [:es: Español](https://github.com/VictoriaPashkouskaya/VictoriaPashkouskaya/blob/main/Sobre%20mi) | [:ru: Русский](https://github.com/VictoriaPashkouskaya/VictoriaPashkouskaya/blob/main/%D0%9E%D0%B1%D0%BE%20%D0%BC%D0%BD%D0%B5)
+
 
 ## GitHub Stats
 ![Victoria Pashkouskaya's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictoriaPashkouskaya&show_icons=true&theme=radical&bg_color=000000&text_color=DC143C)
