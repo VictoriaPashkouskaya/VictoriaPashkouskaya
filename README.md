@@ -1,4 +1,4 @@
-<center> # ¡Hola! 👋 / Hello! 👋 / Привет! 👋</center>
+¡Hola! 👋 / Hello! 👋 / Привет! 👋
 
 Me llamo Victoria  / My name is Victoria 
 ## About Me
