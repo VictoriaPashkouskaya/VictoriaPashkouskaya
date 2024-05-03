@@ -19,15 +19,16 @@
 | **Programming Languages** | **Graphic Editors** | **Operating Systems** |
 |---------------------------|---------------------|-----------------------|
 | ![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg =30x30) JavaScript | ![Photoshop](https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg =30x30) Photoshop | ![Windows](https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg =30x30) Windows |
-| ![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg =30x30) Python | ![Figma](https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg =30x30) Figma | ![Linux](https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg =30x30) Linux |
-| ![HTML](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg =30x30) HTML | ![Canva](https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg =30x30) Canva | ![MacOS](https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg =30x30) MacOS |
-| ![CSS](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg =30x30) CSS |                     |                       |
-| ![PHP](https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg =30x30) PHP |                     |                       |
-| ![Git](https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg =30x30) Git |                     |                       |
-| ![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg =30x30) React |                     |                       |
-| ![MySQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg =30x30) MySQL |                     |                       |
-
-
+| ![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg =30x30) Python | ![Figma](https://raw.githubusercontent.com/devicons/devicon/master/i| **Programming Languages** | **Graphic Editors** | **Operating Systems** |
+|---------------------------|---------------------|-----------------------|
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="20" height="20"> JavaScript | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="20" height="20"> Photoshop | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" width="20" height="20"> Windows |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="20" height="20"> Python | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="20" height="20"> Figma | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="20" height="20"> Linux |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="20" height="20"> HTML | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" width="20" height="20"> Canva | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" width="20" height="20"> MacOS |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="20" height="20"> CSS |                     |                       |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="20" height="20"> PHP |                     |                       |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="20" height="20"> Git |                     |                       |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="20" height="20"> React |                     |                       |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="20" height="20"> MySQL |                     |                       |
 
 <!-- Contáctame / Contact Me / Связаться со мной -->
 ## Contáctame / Contact Me / Связаться со мной
