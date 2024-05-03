@@ -1,18 +1,20 @@
-¡Hola! 👋 / Hello! 👋 / Привет! 👋
+<!-- Приветствие с измененным цветом и шрифтом -->
+<h1 style="color:#ff69b4; font-family:Arial, sans-serif;">¡Hola! 👋 / Hello! 👋 / Привет! 👋</h1>
 
-Me llamo Victoria  / My name is Victoria 
+<!-- Информация о себе -->
 ## About Me
 
 [:us: English](https://github.com/VictoriaPashkouskaya/VictoriaPashkouskaya/blob/main/About%20me) | [:es: Español](https://github.com/VictoriaPashkouskaya/VictoriaPashkouskaya/blob/main/Sobre%20mi) | [:ru: Русский](https://github.com/VictoriaPashkouskaya/VictoriaPashkouskaya/blob/main/%D0%9E%D0%B1%D0%BE%20%D0%BC%D0%BD%D0%B5)
 
-
+<!-- GitHub Stats -->
 ## GitHub Stats
 ![Victoria Pashkouskaya's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictoriaPashkouskaya&show_icons=true&theme=radical&bg_color=000000&text_color=DC143C)
 
+<!-- Top Languages -->
 ## Top Languages
-
 ![Самые используемые языки программирования](https://github-readme-stats.vercel.app/api/top-langs/?username=VictoriaPashkouskaya&layout=compact&bg_color=000000&text_color=DC143C)
 
+<!-- Навыки -->
 # Skills / Habilidades
 ## Programming Languages / Lenguajes de Programación
 
@@ -26,12 +28,12 @@ Me llamo Victoria  / My name is Victoria
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" width="30" height="30" alt="Windows"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="30" height="30" alt="Linux"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" width="30" height="30" alt="MacOS"> 
 
+<!-- Contáctame / Contact Me / Связаться со мной -->
 ## Contáctame / Contact Me / Связаться со мной
 [![Sololearn Profile](https://img.shields.io/badge/Sololearn-Profile-green?style=for-the-badge&logo=sololearn)](https://www.sololearn.com/es/profile/31722118)
 [![LinkedIn Profile](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/victoria-pashkouskaya-4ab140280)
 [![Email](https://img.shields.io/badge/Email-vika.pashkowskaia%40ukr.net-red?style=for-the-badge&logo=gmail)](mailto:vika.pashkowskaia@ukr.net)
 [![Telegram](https://img.shields.io/badge/Telegram-Contact-blue?style=for-the-badge&logo=telegram)](https://t.me/your_telegram_username)
-
 
 Estaré encantada de responder cualquier pregunta o discutir oportunidades de colaboración! / I'll be glad to answer any questions or discuss collaboration opportunities! / Буду рада ответить на любые вопросы или обсудить возможности сотрудничества!
 
@@ -43,5 +45,4 @@ Estaré encantada de responder cualquier pregunta o discutir oportunidades de co
 ¡Echa un vistazo a mis logros de GitHub!
 
 Check out my GitHub trophies!
-
 
