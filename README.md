@@ -5,6 +5,7 @@
 ## About Me
 
 [:us: English](https://github.com/VictoriaPashkouskaya/VictoriaPashkouskaya/blob/main/About%20me) | [:es: Español](https://github.com/VictoriaPashkouskaya/VictoriaPashkouskaya/blob/main/Sobre%20mi) | [:ru: Русский](https://github.com/VictoriaPashkouskaya/VictoriaPashkouskaya/blob/main/%D0%9E%D0%B1%D0%BE%20%D0%BC%D0%BD%D0%B5)
+
 ![Анимация](https://github.com/VictoriaPashkouskaya/VictoriaPashkouskaya/blob/main/ezgif640.gif)
 
 
