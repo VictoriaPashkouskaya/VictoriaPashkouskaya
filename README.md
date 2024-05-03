@@ -1,5 +1,9 @@
-<!-- Приветствие с измененным цветом и шрифтом -->
-<h1 style="color:#ff69b4; font-family:Arial, sans-serif;">¡Hola! 👋 / Hello! 👋 / Привет! 👋</h1>
+<!-- Пример с тенью -->
+<h1 style="color:#ff69b4; font-family:Arial, sans-serif; text-align:center; font-size:36px; text-shadow: 2px 2px 2px #000000;">¡Hola! 👋 / Hello! 👋 / Привет! 👋</h1>
+
+<!-- Пример с обводкой -->
+<h1 style="color:#ff69b4; font-family:Arial, sans-serif; text-align:center; font-size:36px; -webkit-text-stroke-width: 1px; -webkit-text-stroke-color: #000000;">¡Hola! 👋 / Hello! 👋 / Привет! 👋</h1>
+
 
 <!-- Информация о себе -->
 ## About Me
