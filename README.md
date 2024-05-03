@@ -44,6 +44,7 @@ Estaré encantada de responder cualquier pregunta o discutir oportunidades de co
 
 ¡Echa un vistazo a mis logros de GitHub!
 
-Check out my GitHub trophies! ![VA15](https://github.com/VictoriaPashkouskaya/VictoriaPashkouskaya/raw/main/VA15.gif)
+Check out my GitHub trophies! ![WG8Q](https://github.com/VictoriaPashkouskaya/VictoriaPashkouskaya/raw/main/WG8Q.gif){:height="300px" width="auto"}
+
 
 
