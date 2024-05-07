@@ -53,4 +53,5 @@ ${{ github.repository_owner }} <themeName>
 
 
 
-<img src="https://github.com/VictoriaPashkouskaya/VictoriaPashkouskaya/blob/main/github-contribution-grid-snake-dark.svg>
+<img src="https://github.com/VictoriaPashkouskaya/VictoriaPashkouskaya/blob/main/github-contribution-grid-snake-dark.svg" alt="Contribution grid snake">
+
