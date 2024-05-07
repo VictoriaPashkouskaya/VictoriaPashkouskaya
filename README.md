@@ -39,7 +39,7 @@
 
 Estaré encantada de responder cualquier pregunta o discutir oportunidades de colaboración! / I'll be glad to answer any questions or discuss collaboration opportunities! / Буду рада ответить на любые вопросы или обсудить возможности сотрудничества!
 
-
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
 
 ## Logros de GitHub / GitHub Trophies
