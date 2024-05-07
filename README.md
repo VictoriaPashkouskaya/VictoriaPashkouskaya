@@ -47,10 +47,10 @@ Estaré encantada de responder cualquier pregunta o discutir oportunidades de co
 ¡Echa un vistazo a mis logros de GitHub!
 [![trophy](https://github-profile-trophy.vercel.app/?username=VictoriaPashkouskaya)](https://github.com/ryo-ma/github-profile-trophy)
 Check out my GitHub trophies! <img src="https://github.com/VictoriaPashkouskaya/VictoriaPashkouskaya/blob/main/Z3us.gif" alt="WG8Q" width="300" height="300" >
-
-
+${{ github.repository_owner }} <themeName>
 
 ![Visitor Count](https://profile-counter.glitch.me/VictoriaPashkouskaya/count.svg)
 
 
+node updater.js ${{ github.repository_owner }}
 
