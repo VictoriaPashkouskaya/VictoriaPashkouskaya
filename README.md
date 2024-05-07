@@ -1,5 +1,5 @@
 <!-- Приветствие на трех языках -->
-<h1 style="color:#ff69b4; font-family:Arial, sans-serif; text-align:center; font-size:36px; text-shadow: 2px 2px 2px #000000;">¡Viva larga y próspera! / Live long and prosper! / Да здравствует долгая и счастливая жизнь! 🖖</h1>
+¡Viva larga y próspera! / Live long and prosper! 🖖</h1>
 
 <!-- Информация о себе -->
 ## About Me
