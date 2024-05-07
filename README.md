@@ -52,6 +52,6 @@ ${{ github.repository_owner }} <themeName>
 ![Visitor Count](https://profile-counter.glitch.me/VictoriaPashkouskaya/count.svg)
 
 
-node updater.js ${{ github.repository_owner }} atom
+
 
 
