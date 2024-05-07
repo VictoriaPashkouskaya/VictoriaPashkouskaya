@@ -49,8 +49,8 @@ Estaré encantada de responder cualquier pregunta o discutir oportunidades de co
 Check out my GitHub trophies! <img src="https://github.com/VictoriaPashkouskaya/VictoriaPashkouskaya/blob/main/Z3us.gif" alt="WG8Q" width="300" height="300" >
 
 
-[![visitors](https://visitor-badge.laobi.icu/badge?page_id=VictoriaPashkouskaya.VictoriaPashkouskaya)](https://github.com/VictoriaPashkouskaya)
-[![Visitor Count](https://profile-counter.glitch.me/VictoriaPashkouskaya/count.svg)
+
+![Visitor Count](https://profile-counter.glitch.me/VictoriaPashkouskaya/count.svg)
 
 
 
