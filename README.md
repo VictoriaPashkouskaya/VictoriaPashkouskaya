@@ -50,6 +50,7 @@ Check out my GitHub trophies! <img src="https://github.com/VictoriaPashkouskaya/
 
 
 [![visitors](https://visitor-badge.laobi.icu/badge?page_id=VictoriaPashkouskaya.VictoriaPashkouskaya)](https://github.com/VictoriaPashkouskaya)
+[![Visitor Count](https://profile-counter.glitch.me/VictoriaPashkouskaya/count.svg)
 
 
 
