@@ -39,13 +39,13 @@
 
 Estaré encantada de responder cualquier pregunta o discutir oportunidades de colaboración! / I'll be glad to answer any questions or discuss collaboration opportunities! / Буду рада ответить на любые вопросы или обсудить возможности сотрудничества!
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=VictoriaPashkouskaya)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 
 ## Logros de GitHub / GitHub Trophies
 
 ¡Echa un vistazo a mis logros de GitHub!
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=VictoriaPashkouskaya)](https://github.com/ryo-ma/github-profile-trophy)
 Check out my GitHub trophies! <img src="https://github.com/VictoriaPashkouskaya/VictoriaPashkouskaya/blob/main/Z3us.gif" alt="WG8Q" width="300" height="300" >
 
 
