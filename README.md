@@ -37,7 +37,7 @@
 [![Sololearn Profile](https://img.shields.io/badge/Sololearn-Profile-green?style=for-the-badge&logo=sololearn)](https://www.sololearn.com/es/profile/31722118)
 [![LinkedIn Profile](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/victoria-pashkouskaya-4ab140280)
 [![Email](https://img.shields.io/badge/Email-vika.pashkowskaia%40ukr.net-red?style=for-the-badge&logo=gmail)](mailto:vika.pashkowskaia@ukr.net)
-[![Telegram](https://img.shields.io/badge/Telegram-Contact-blue?style=for-the-badge&logo=telegram)](https://t.me/your_telegram_username)
+[![Telegram](https://img.shields.io/badge/Telegram-Contact-blue?style=for-the-badge&logo=telegram)](https://t.me/@E_r_r_or_404)
 
 Estaré encantada de responder cualquier pregunta o discutir oportunidades de colaboración! / I'll be glad to answer any questions or discuss collaboration opportunities! / Буду рада ответить на любые вопросы или обсудить возможности сотрудничества!
 
