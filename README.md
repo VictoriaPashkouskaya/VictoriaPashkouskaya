@@ -1,5 +1,5 @@
 <!-- Приветствие на трех языках -->
-¡Viva larga y próspera! / Live long and prosper! 🖖</h1>
+![Анимация](https://github.com/VictoriaPashkouskaya/VictoriaPashkouskaya/blob/main/descarga.png)
 
 <!-- Информация о себе -->
 ## About Me
