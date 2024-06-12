@@ -1,6 +1,3 @@
-<!-- Приветствие на трех языках -->
-![Анимация](https://github.com/VictoriaPashkouskaya/VictoriaPashkouskaya/blob/main/descarga.png)
-
 <!-- Информация о себе -->
 ## About Me
 
