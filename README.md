@@ -12,8 +12,8 @@
 <!-- Top Languages -->
 ## Top Languages
 ![Самые используемые языки программирования](https://github-readme-stats.vercel.app/api/top-langs/?username=VictoriaPashkouskaya&layout=compact&bg_color=000000&text_color=DC143C)
-| **Habilidades Clave** | **Descripción** |
-|-----------------------|-----------------|
+| **Habilidades Clave** | 
+|-----------------------|
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="30" height="30"> **JavaScript** |
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="30" height="30"> **HTML5/CSS3** |
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="30" height="30"> **React** | 
@@ -24,7 +24,7 @@
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" width="30" height="30"> **Webpack/Babel** | 
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="30" height="30"> **MySQL** | 
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="30" height="30"> **MongoDB Atlas** | 
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" width="30" height="30"> **Instalación de sistemas operativos y software** |  Linux y macOS |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" width="30" height="30"> **Instalación de sistemas operativos y software** | 
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" width="30" height="30"> **Reparación de computadoras** | 
 
 
