@@ -27,12 +27,7 @@
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" width="30" height="30"> **Instalación de sistemas operativos y software** | configuración de Windows, Linux y macOS |
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" width="30" height="30"> **Reparación de computadoras** | diagnóstico y solución de problemas de hardware y software |
 
-| **Operating Systems** 
-|------------------------------------------------------------------------------------------------------------------------------|
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" width="30" height="30"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="30" height="30"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" width="30" height="30"> |
-| **Developer Tools**                                                                                        |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="30" height="30"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="30" height="30"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powershell/powershell-original.svg" width="30" height="30"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="30" height="30"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" width="30" height="30"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="30" height="30"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" width="30" height="30"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" width="30" height="30"> |
-<img src="https://github.com/VictoriaPashkouskaya/VictoriaPashkouskaya/blob/main/EHil.gif" width="350" height="300">
+
 
 <!-- Contáctame / Contact Me / Связаться со мной -->
 ## Contáctame / Contact Me / Связаться со мной
