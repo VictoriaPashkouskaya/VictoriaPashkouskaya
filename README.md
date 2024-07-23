@@ -12,14 +12,20 @@
 <!-- Top Languages -->
 ## Top Languages
 ![Самые используемые языки программирования](https://github-readme-stats.vercel.app/api/top-langs/?username=VictoriaPashkouskaya&layout=compact&bg_color=000000&text_color=DC143C)
-
-| **Programming Languages** | **Graphic Editors**     | **Databases** | **DevOps Tools** | **API Testing** | **Version Control** | **OS & Software Installation** | **Computer Repair** |
-|---------------------------|-------------------------|---------------|------------------|-----------------|---------------------|-------------------------------|---------------------|
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="30" height="30"> JavaScript | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="30" height="30"> Photoshop | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="30" height="30"> MySQL | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="30" height="30"> Docker | <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" width="30" height="30"> Postman | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="30" height="30"> Git | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="30" height="30"> Linux | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" width="30" height="30"> Hardware |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30" height="30"> Python | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="30" height="30"> Figma | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="30" height="30"> MongoDB Atlas |  |  |  |  |  |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="30" height="30"> HTML | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" width="30" height="30"> Canva |  |  |  |  |  |  |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="30" height="30"> CSS |  |  |  |  |  |  |  |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="30" height="30"> PHP |  |  |  |  |  |  |  |
+| **Habilidades Clave** | **Descripción** |
+|-----------------------|-----------------|
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="30" height="30"> **JavaScript** | ES6+, programación asíncrona |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="30" height="30"> **HTML5/CSS3** | diseño adaptable, Flexbox, Grid |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="30" height="30"> **React** | componentes, Redux, React Hooks |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="30" height="30"> **Node.js** | Express.js, desarrollo del servidor |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="30" height="30"> **Docker** | contenedorización, Docker Compose |
+| <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" width="30" height="30"> **Postman** | pruebas de API |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="30" height="30"> **Git** | control de versiones, manejo de ramas y pull requests |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" width="30" height="30"> **Webpack/Babel** | compilación y transpilación de código |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="30" height="30"> **MySQL** | gestión y consultas de bases de datos relacionales |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="30" height="30"> **MongoDB Atlas** | gestión de bases de datos NoSQL en la nube |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" width="30" height="30"> **Instalación de sistemas operativos y software** | configuración de Windows, Linux y macOS |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" width="30" height="30"> **Reparación de computadoras** | diagnóstico y solución de problemas de hardware y software |
 
 | **Operating Systems** 
 |------------------------------------------------------------------------------------------------------------------------------|
