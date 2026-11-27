@@ -90,7 +90,7 @@
 <p align="center">
   Full Stack Web Development · 490 h<br/>
   Web Application Development · 320 h<br/>
-  Microcomputer Systems & Networks · 580 h
+  Microcomputer Systems & Networks · 2580 h
 </p>
 
 ---
