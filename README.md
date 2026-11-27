@@ -26,7 +26,7 @@
 <table align="center">
 <tr>
 <td align="center" width="25%"><b>DEVELOPMENT</b><br/><img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs&theme=dark"/></td>
-<td align="center" width="25%"><b>DATA & DATABASES</b><br/><img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark"/><br/><code>SQL</code> <code>EXCEL</code> <code>DATA EXTRACTION</code></td>
+<td align="center" width="25%"><b>DATA & DATABASES</b><br/><img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark"/><br/><code>SQL</code> <code>EXCEL</code> <code></code></td>
 <td align="center" width="25%"><b>OPERATING SYSTEMS</b><br/><img src="https://skillicons.dev/icons?i=windows,linux,bash&theme=dark"/></td>
 <td align="center" width="25%"><b>TOOLS & INFRASTRUCTURE</b><br/><img src="https://skillicons.dev/icons?i=git,docker,vscode&theme=dark"/><br/><code>NETWORKS</code> <code>HARDWARE</code> <code>ERP</code></td>
 </tr>
