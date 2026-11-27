@@ -5,19 +5,15 @@
   <img src="https://img.shields.io/badge/ERP_&_BI-111111?style=for-the-badge&logo=powerbi&logoColor=DC143C"/>
   <img src="https://img.shields.io/badge/IT_SYSTEMS-111111?style=for-the-badge&logo=linux&logoColor=DC143C"/>
 </p>
-
 <p align="center">
   <a href="https://github.com/VictoriaPashkouskaya/VictoriaPashkouskaya/blob/main/About%20me">🇬🇧 English</a> ·
   <a href="https://github.com/VictoriaPashkouskaya/VictoriaPashkouskaya/blob/main/Sobre%20mi">🇪🇸 Español</a> ·
   <a href="https://github.com/VictoriaPashkouskaya/VictoriaPashkouskaya/blob/main/%D0%9E%D0%B1%D0%BE%20%D0%BC%D0%BD%D0%B5">🇷🇺 Русский</a>
 </p>
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=2&section=header"/>
 </p>
-
 <h3 align="center">ABOUT ME</h3>
-
 <p align="center">
   <b>Technology is not just about writing code.<br/>It's about understanding how everything connects.</b>
 </p>
