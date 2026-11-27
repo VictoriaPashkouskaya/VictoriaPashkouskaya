@@ -23,10 +23,6 @@
 </p>
 
 <p align="center">
-  🌾 AGRONOMY &nbsp; → &nbsp; 💻 IT &nbsp; → &nbsp; 📊 DATA
-</p>
-
-<p align="center">
   I combine experience in operational processes, IT support,<br/>
   web development, databases and systems administration.
 </p>
