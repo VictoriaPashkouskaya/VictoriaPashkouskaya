@@ -161,7 +161,3 @@
 <p align="center">
   <sub>Victoria Pashkouskaya · GitHub Portfolio</sub>
 </p>
-
-<p align="center">
-  <sub>Victoria Pashkouskaya · GitHub Portfolio</sub>
-</p>
