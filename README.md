@@ -1,4 +1,4 @@
-<h1 align="center">VICTORIA PASHKOUSKAYA</h1>
+<h1 align="center">VICTORIA PASHKOVSKAYA</h1>
 <p align="center">
   <img src="https://img.shields.io/badge/DATA_ANALYSIS-111111?style=for-the-badge&logo=databricks&logoColor=DC143C"/>
   <img src="https://img.shields.io/badge/SQL-111111?style=for-the-badge&logo=mysql&logoColor=DC143C"/>
