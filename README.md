@@ -128,9 +128,7 @@
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=VictoriaPashkouskaya&bg_color=0D1117&color=FFFFFF&line=DC143C&point=FFFFFF&area=true&hide_border=true"/>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=VictoriaPashkouskaya&theme=darkhub&no-frame=true&no-bg=true&column=6" width="95%"/>
-</p>
+
 
 ---
 
@@ -150,14 +148,12 @@
     <img src="https://img.shields.io/badge/TELEGRAM-DC143C?style=for-the-badge&logo=telegram&logoColor=white&labelColor=111111"/>
   </a>
 </p>
-
+<p align="center">
+  <img src="https://github.com/VictoriaPashkouskaya/VictoriaPashkouskaya/blob/main/Z3us.gif" width="130"/>
+</p>
 <p align="center">
   🇷🇺 Russian &nbsp; · &nbsp; 🇺🇦 Ukrainian &nbsp; · &nbsp; 🇪🇸 Spanish<br/>
   Euskera &nbsp; · &nbsp; 🇬🇧 English
-</p>
-
-<p align="center">
-  <img src="https://github.com/VictoriaPashkouskaya/VictoriaPashkouskaya/blob/main/Z3us.gif" width="130"/>
 </p>
 
 <h3 align="center">CURIOSITY IS NOT A BUG. IT'S A FEATURE.</h3>
