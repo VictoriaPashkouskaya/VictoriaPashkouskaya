@@ -8,102 +8,31 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=2&section=header"/>
 </p>
-<h3 align="center">ABOUT ME</h3>
-<p align="center">
-  <b>Technology is not just about writing code.<br/>It's about understanding how everything connects.</b>
-</p>
-<p align="center">
-  I combine experience in operational processes, IT support,<br/>
-  web development, databases and systems administration.
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/7%2B_YEARS-PC_&_PRINTER_REPAIR-DC143C?style=flat-square&labelColor=111111"/>
-  <img src="https://img.shields.io/badge/12%2C000_HA-AGRICULTURAL_OPERATIONS-DC143C?style=flat-square&labelColor=111111"/>
-  <img src="https://img.shields.io/badge/FULL_STACK-490_HOURS-DC143C?style=flat-square&labelColor=111111"/>
-</p>
-
----
-
-<h3 align="center">TECH STACK</h3>
-
-<table align="center">
-<tr>
-<td align="center" width="50%">
-<b>DEVELOPMENT</b><br/><br/>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs&theme=dark"/>
-</td>
-<td align="center" width="50%">
-<b>DATA & DATABASES</b><br/><br/>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark"/><br/>
-<code>SQL</code> <code>EXCEL</code> <code>DATA EXTRACTION</code>
-</td>
-</tr>
-<tr>
-<td align="center">
-<b>OPERATING SYSTEMS</b><br/><br/>
-<img src="https://skillicons.dev/icons?i=windows,linux,bash&theme=dark"/>
-</td>
-<td align="center">
-<b>TOOLS & INFRASTRUCTURE</b><br/><br/>
-<img src="https://skillicons.dev/icons?i=git,docker,vscode&theme=dark"/><br/>
-<code>NETWORKS</code> <code>HARDWARE</code> <code>ERP</code>
-</td>
-</tr>
-</table>
-
----
-
-<h3 align="center">KNOWLEDGE & EXPERIENCE</h3>
-
-<p align="center"><b>DATA & BUSINESS</b></p>
-<p align="center">
-  <img src="https://img.shields.io/badge/SQL-Queries-DC143C?style=flat-square&labelColor=111111"/>
-  <img src="https://img.shields.io/badge/MySQL-Databases-DC143C?style=flat-square&labelColor=111111"/>
-  <img src="https://img.shields.io/badge/ERP-Business_Workflows-DC143C?style=flat-square&labelColor=111111"/>
-  <img src="https://img.shields.io/badge/BI-Reporting-DC143C?style=flat-square&labelColor=111111"/>
-</p>
-
-<p align="center"><b>SYSTEMS & NETWORKS</b></p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Windows_Server-DC143C?style=flat-square&labelColor=111111"/>
-  <img src="https://img.shields.io/badge/Linux-DC143C?style=flat-square&labelColor=111111"/>
-  <img src="https://img.shields.io/badge/Networking-DC143C?style=flat-square&labelColor=111111"/>
-  <img src="https://img.shields.io/badge/Virtualization-DC143C?style=flat-square&labelColor=111111"/>
-</p>
-
-<p align="center"><b>PROFESSIONAL TRAINING</b></p>
-<p align="center">
-  Full Stack Web Development · 490 h<br/>
-  Web Application Development · 320 h<br/>
-  Microcomputer Systems & Networks · 2580 h
-</p>
-
----
-
-<h3 align="center">CURRENT DIRECTION</h3>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=5"/>
-</p>
-
-<p align="center">
-  <b>DATA ANALYSIS · SQL · ERP · BI REPORTING</b>
-</p>
-
-<p align="center">
-  Developing technical skills while connecting data,<br/>
-  business processes and IT infrastructure.
-</p>
-
 <p align="center">
   <img src="https://img.shields.io/badge/LOCATION-BILBAO,_BIZKAIA-DC143C?style=flat-square&labelColor=111111"/>
   <img src="https://img.shields.io/badge/OPEN_TO-REMOTE-DC143C?style=flat-square&labelColor=111111"/>
 </p>
 
----
+<h3 align="center">ABOUT ME</h3>
+<p align="center">
+  <b>Technology is not just about writing code.It's about understanding how everything connects.</b>
+</p>
+<p align="center">
+  I combine experience in operational processes, IT support,
+  web development, databases and systems administration.
+</p>
 
-<h3 align="center">05 / GITHUB ANALYTICS</h3>
+<h3 align="center">TECH STACK</h3>
+<table align="center">
+<tr>
+<td align="center" width="25%"><b>DEVELOPMENT</b><br/><img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs&theme=dark"/></td>
+<td align="center" width="25%"><b>DATA & DATABASES</b><br/><img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark"/><br/><code>SQL</code> <code>EXCEL</code> <code>DATA EXTRACTION</code></td>
+<td align="center" width="25%"><b>OPERATING SYSTEMS</b><br/><img src="https://skillicons.dev/icons?i=windows,linux,bash&theme=dark"/></td>
+<td align="center" width="25%"><b>TOOLS & INFRASTRUCTURE</b><br/><img src="https://skillicons.dev/icons?i=git,docker,vscode&theme=dark"/><br/><code>NETWORKS</code> <code>HARDWARE</code> <code>ERP</code></td>
+</tr>
+</table>
+
+<h3 align="center"> GITHUB ANALYTICS</h3>
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=VictoriaPashkouskaya&show_icons=true&hide_border=true&bg_color=0D1117&title_color=DC143C&icon_color=DC143C&text_color=FFFFFF&ring_color=DC143C"/>
